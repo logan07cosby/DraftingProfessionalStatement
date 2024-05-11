@@ -16,7 +16,7 @@ Create a professional statement that describes who I am and what I care about to
 
 - <b>Windows 10</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Statememt walk-through:</h2>
 
 <p align="center">
 Professional statement: <br/>
