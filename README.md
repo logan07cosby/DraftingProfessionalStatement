@@ -20,7 +20,7 @@ Create a professional statement that describes who I am and what I care about to
 
 <p align="center">
 Professional statement: <br/>
-<img src="professional statement.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="professional statement.jpg" height="80%" width="80%" alt=""/>
 <br />
 <br />
 
